@@ -1,0 +1,35 @@
+[
+    {"id": 1, 
+    "Title": "BlogPost-1", 
+    
+    "Content": " This is My frist Next Js Project Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis nesciunt maiores natus fuga magnam repellat rerum asperiores sapiente, quisquam eos, corporis, accusantium eum omnis animi! Corrupti laboriosam dolorum dolore cumque illum nobis, dignissimos nulla amet id magni, asperiores rerum minima explicabo pariatur necessitatibus. Praesentium veritatis ipsam quasi sequi voluptatem dolorem.",
+
+
+    "Date": "13/8/2023" 
+
+
+},
+    
+    
+    
+    
+    
+    {"id": 2, 
+    "Title": "BlogPost-2", 
+    "Content": " This is My Second Next Js Project Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis nesciunt maiores natus fuga magnam repellat rerum asperiores sapiente, quisquam eos, corporis, accusantium eum omnis animi! Corrupti laboriosam dolorum dolore cumque illum nobis, dignissimos nulla amet id magni, asperiores rerum minima explicabo pariatur necessitatibus. Praesentium veritatis ipsam quasi sequi voluptatem dolorem.",
+
+    "Date": "13/8/2023" 
+},
+
+
+
+    {"id": 3, 
+    "Title": "BlogPost-3", 
+  
+    "Content": " This is My Third Next Js Project Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis nesciunt maiores natus fuga magnam repellat rerum asperiores sapiente, quisquam eos, corporis, accusantium eum omnis animi! Corrupti laboriosam dolorum dolore cumque illum nobis, dignissimos nulla amet id magni, asperiores rerum minima explicabo pariatur necessitatibus. Praesentium veritatis ipsam quasi sequi voluptatem dolorem.",
+  
+
+
+    "Date": "13/8/2023" 
+}
+]
